@@ -12,7 +12,8 @@ cd Major_Assignment
 cd source 
 
 # Step 4 Make Exe For Question Q 09
-after downloading C++ on Windows
+After downloading C++ on Windows
+***
  g++ Q\ 09\ main.cpp
 Than We Got 
 Q 09.exe
