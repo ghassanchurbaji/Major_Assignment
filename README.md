@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=q9wc7hUrW8U
 # Step 2 copy HTTPS URl
 https://github.com/ghassanchurbaji/Major_Assignment.git
 
-# Step 3 open git Bash
+# Step 3 open Git Bash
 Write :
 git clown "https://github.com/ghassanchurbaji/Major_Assignment.git"
 cd Major_Assignment 
