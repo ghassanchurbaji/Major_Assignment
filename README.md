@@ -9,7 +9,8 @@ https://github.com/ghassanchurbaji/Major_Assignment.git
 Write :
 git clone "https://github.com/ghassanchurbaji/Major_Assignment.git"
 
-cd Major_Assignment 
+cd Major_Assignment
+
 cd source 
 
 # Step 4 Make Exe For Question Q 09
