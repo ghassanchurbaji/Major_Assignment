@@ -1,5 +1,5 @@
 # Major_Assignment
-# Step 1 How To make  Clown:
+# Step 1 How To make  Clone:
 https://www.youtube.com/watch?v=q9wc7hUrW8U
 
 # Step 2 copy HTTPS URl
