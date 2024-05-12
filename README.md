@@ -7,6 +7,7 @@ https://github.com/ghassanchurbaji/Major_Assignment.git
 
 # Step 3 open Git Bash
 Write :
+
 git clone "https://github.com/ghassanchurbaji/Major_Assignment.git"
 
 cd Major_Assignment
